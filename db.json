@@ -1,44 +1,44 @@
 {
-	"restrictedLocations": [
-		{
-			"id": "1",
-			"name": "Near Praha",
-			"lat": "14.5000",
-			"disabled": true,
-			"lng": "50.223",
-			"radius": "5000"
-		},
-		{
-			"id": "2",
-			"name": "Gan cho Brno",
-			"lat": "14.2223",
-			"disabled": false,
-			"lng": "50.8899",
-			"radius": "3000"
-		},
-		{
-			"id": "3",
-			"name": "Gan cho Brno 2",
-			"lat": "16.9293",
-			"disabled": false,
-			"lng": "51.8899",
-			"radius": "3000"
-		},
-		{
-			"id": "4",
-			"name": "Gan Usti 2",
-			"lat": "16.0897",
-			"disabled": false,
-			"lng": "50.2233",
-			"radius": "3000"
-		},
-		{
-			"id": "5",
-			"name": "Gan xx",
-			"lat": "17.0897",
-			"disabled": false,
-			"lng": "50.2244",
-			"radius": "3000"
-		}
-	]
+  "restrictedLocations": [
+    {
+      "id": "1",
+      "name": "G\u1ea7n Praha 1",
+      "disabled": "0",
+      "lat": "49.334096",
+      "lng": "16.441533",
+      "radius": "2",
+      "created_at": "2021-06-18 23:00:02",
+      "updated_at": "2021-06-18 23:00:02"
+    },
+    {
+      "id": "2",
+      "name": "Prisnov",
+      "disabled": "0",
+      "lat": "49.334991",
+      "lng": "16.398961",
+      "radius": "3",
+      "created_at": "2021-06-18 23:01:30",
+      "updated_at": "2021-06-18 23:01:30"
+    },
+    {
+      "id": "3",
+      "name": "G\u1ea7n Brno",
+      "disabled": "0",
+      "lat": "49.360966",
+      "lng": "14.735884",
+      "radius": "4",
+      "created_at": "2021-06-18 23:07:53",
+      "updated_at": "2021-06-18 23:09:00"
+    },
+    {
+      "id": "4",
+      "name": "Nguy\u1ec5n V\u0103n C\u00f4ng",
+      "disabled": "0",
+      "lat": "10.822764",
+      "lng": "106.674650",
+      "radius": "5",
+      "created_at": "2021-06-18 23:15:13",
+      "updated_at": "2021-06-18 23:15:13"
+    }
+  ]
 }
