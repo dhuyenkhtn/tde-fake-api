@@ -1,0 +1,18 @@
+{
+	"restrictedLocations": [
+		{
+			"id": "1",
+			"title": "Near Praha",
+			"lat": "14.5000",
+			"lng": "50.223",
+			"servingRadius": "5000"
+		},
+		{
+			"id": "2",
+			"title": "Gan cho Brno",
+			"lat": "14.0897",
+			"lng": "50.8899",
+			"servingRadius": "3000"
+		}
+	]
+}
