@@ -2,17 +2,43 @@
 	"restrictedLocations": [
 		{
 			"id": "1",
-			"title": "Near Praha",
+			"name": "Near Praha",
 			"lat": "14.5000",
+			"disabled": true,
 			"lng": "50.223",
-			"servingRadius": "5000"
+			"radius": "5000"
 		},
 		{
 			"id": "2",
-			"title": "Gan cho Brno",
-			"lat": "14.0897",
+			"name": "Gan cho Brno",
+			"lat": "14.2223",
+			"disabled": false,
 			"lng": "50.8899",
-			"servingRadius": "3000"
+			"radius": "3000"
+		},
+		{
+			"id": "3",
+			"name": "Gan cho Brno 2",
+			"lat": "16.9293",
+			"disabled": false,
+			"lng": "51.8899",
+			"radius": "3000"
+		},
+		{
+			"id": "4",
+			"name": "Gan Usti 2",
+			"lat": "16.0897",
+			"disabled": false,
+			"lng": "50.2233",
+			"radius": "3000"
+		},
+		{
+			"id": "5",
+			"name": "Gan xx",
+			"lat": "17.0897",
+			"disabled": false,
+			"lng": "50.2244",
+			"radius": "3000"
 		}
 	]
 }
